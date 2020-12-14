@@ -4,6 +4,6 @@ A fun interactive Christmas card where you can control the cat, Sprites were all
 Required Libraries:
 -Pygame
 
-![What it looks like]()
+![What it looks like](example.png)
 
 *I had issues with Numpy being unneccessarily involved, so I disabled it for this environment since it isn't neccessary and that fixed the error.  If you want to add to this and need Numpy functionality, you may want to try earlier versions.
