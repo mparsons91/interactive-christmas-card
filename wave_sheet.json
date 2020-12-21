@@ -1,0 +1,38 @@
+{"frames": {
+"wave1.png":
+{
+	"frame": {"x":1,"y":1,"w":160,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":164},
+	"sourceSize": {"w":160,"h":164},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wave2.png":
+{
+	"frame": {"x":163,"y":1,"w":160,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":164},
+	"sourceSize": {"w":160,"h":164},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wave3.png":
+{
+	"frame": {"x":325,"y":1,"w":160,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":164},
+	"sourceSize": {"w":160,"h":164},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wave_sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":486,"h":166},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d08f5408b3698d91e869dfb70ab127c6:f6c75e9cff0a3344e84195499986954c:204b5501608bc891aca0ca625e7877ac$"
+}
+}
